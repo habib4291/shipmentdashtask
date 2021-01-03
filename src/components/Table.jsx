@@ -4,7 +4,7 @@ import  gridData from './Tabledata';
 
 function TableContainer() {
     return (
-        <div className="ordersgrid">
+        <div className="ordersgrid" style={{paddingBottom:'50px'}}>
             <Grid style={{height: '300px'}} data={gridData}>
                 <Column field="awbno" title="AWB NUMBER" width="100px" />
                 <Column field="carrier" title="TRANSPORTER" width="130px"/>
