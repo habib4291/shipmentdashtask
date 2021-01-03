@@ -5,7 +5,7 @@ const src = "./assets/warehouse.svg"
 const dest = "./assets/destination.svg"
 const Timeline = () =>
     scan.length > 0 && (
-        <div>
+        <div className={'tracker'} style={{height:'50px',width:'50px'}}>
             <div className="CircleBackground"><img src={dest} className='Image destinationImage' alt='some'/></div>
         <div className="timeline-container">
             {scan.map((scan, idx) => (
