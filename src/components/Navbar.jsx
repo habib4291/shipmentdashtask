@@ -25,8 +25,8 @@ function Navbar() {
              <Button>Brands</Button>
              <Button>Transports</Button>
              
-              <img src={profile} alt='pp' style={{marginTop:'5px'}}/>
-              <img src="https://img.icons8.com/android/24/000000/chevron-down.png" alt='ooops' style={{marginTop:'5px'}}/>
+              <img src={profile} alt='pp' style={{marginTop:'8px'}}/>
+              <img src="https://img.icons8.com/android/24/000000/chevron-down.png" alt='ooops' style={{marginTop:'8px'}}/>
             
              </div>
           </Toolbar>
