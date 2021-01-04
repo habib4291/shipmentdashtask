@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shipmentdashtask/static/js/main.f84da6cc.chunk.js",
+    "main.js.map": "/shipmentdashtask/static/js/main.f84da6cc.chunk.js.map",
+    "runtime-main.js": "/shipmentdashtask/static/js/runtime-main.40046031.js",
+    "runtime-main.js.map": "/shipmentdashtask/static/js/runtime-main.40046031.js.map",
+    "static/js/2.7d7c98e5.chunk.js": "/shipmentdashtask/static/js/2.7d7c98e5.chunk.js",
+    "static/js/2.7d7c98e5.chunk.js.map": "/shipmentdashtask/static/js/2.7d7c98e5.chunk.js.map",
+    "index.html": "/shipmentdashtask/index.html",
+    "static/js/2.7d7c98e5.chunk.js.LICENSE.txt": "/shipmentdashtask/static/js/2.7d7c98e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40046031.js",
+    "static/js/2.7d7c98e5.chunk.js",
+    "static/js/main.f84da6cc.chunk.js"
+  ]
+}
